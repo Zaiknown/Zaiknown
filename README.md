@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá 👋, eu sou o Matheus Zaino
+  Olá, eu sou Matheus Zaino
 </h1>
 <h3 align="center">
   Um entusiasta de tecnologia e desenvolvedor em formação.
@@ -7,19 +7,19 @@
 
 <br>
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 
 <p>
-  - 🎓 Sou <strong>Técnico em Informática</strong> pelo Instituto Federal do Ceará (IFCE).
+  - Sou <strong>Técnico em Informática</strong> pelo Instituto Federal do Ceará (IFCE).
   <br>
-  - 🚀 Atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong>, também no IFCE.
+  - Atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong>, também no IFCE.
   <br>
-  - 🌱 Buscando sempre aprender novas tecnologias para aprimorar minhas habilidades em desenvolvimento de software e análise de dados.
+  - Buscando sempre aprender novas tecnologias para aprimorar minhas habilidades em desenvolvimento de software e análise de dados.
 </p>
 
 <br>
 
-## 📊 Minhas Estatísticas no GitHub
+## Minhas Estatísticas no GitHub
 
 <div align="center">
   <a href="https://github.com/Zaiknown">
@@ -30,7 +30,7 @@
 
 <br>
 
-## 💻 Habilidades e Ferramentas
+## Habilidades e Ferramentas
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -40,7 +40,7 @@
 
 <br>
 
-## 📫 Conecte-se Comigo
+## Conecte-se Comigo
 
 <p align="center">
   <a href="mailto:matheuszainopo@gmail.com">
