@@ -19,6 +19,7 @@
   - Sou um desenvolvedor com mais de 3 anos de experiência, nível de <b>desenvolvedor Júnior<b>, trabalho com a lógica <b>FullStack</b> e também com <br>UI/UX<br>
   <br>
   - Meu projeto atual mais relevante é um <br>Chat em Tempo Real<br>, feito com Django, WebSockets, JavaScript, que está funcional
+  <br>
 </p>
 
 <br>
