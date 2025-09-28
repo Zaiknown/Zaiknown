@@ -2,7 +2,7 @@
   Olá, eu sou Matheus Zaino
 </h1>
 <h3 align="center">
-  Um entusiasta de tecnologia e desenvolvedor em formação.
+  Um amante e entusista de tecnologia e desenvolvedor em formação.
 </h3>
 
 <br>
@@ -14,7 +14,11 @@
   <br>
   - Atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong>, também no IFCE.
   <br>
-  - Buscando sempre aprender novas tecnologias para aprimorar minhas habilidades em desenvolvimento de software e análise de dados.
+  - Minha jornada no desenvolvimento me permite transitar entre a criação de interfaces interativas e a construção de APIs robustas e lógicas de negócio no back-end.
+  <br>
+  - Sou um desenvolvedor com mais de 3 anos de experiência, nível de <b>desenvolvedor Júnior<b>, trabalho com a lógica <b>FullStack</b> e também com <br>UI/UX<br>
+  <br>
+  - Meu projeto atual mais relevante é um <br>Chat em Tempo Real<br>, feito com Django, WebSockets, JavaScript, que está funcional
 </p>
 
 <br>
